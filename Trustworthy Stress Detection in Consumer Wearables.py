@@ -820,6 +820,3 @@ if __name__ == "__main__":
 
     # Save transactions journal
     journal_df = _save_journal(OUTDIR)
-
-    print("\nAll done ✅")
-    print(f"Outputs saved in: {os.path.abspath(OUTDIR)}")
