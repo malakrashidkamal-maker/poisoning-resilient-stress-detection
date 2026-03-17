@@ -7,3 +7,5 @@ It implements:
 - Evaluation on DEAP (and extendable to WESAD)
 
 The code supports reproducible experiments with detailed logging, performance metrics, and visualization outputs, aligned with the methodology presented in our paper on trustworthy AI for consumer wearable systems.
+
+This repository is provided to support reproducibility of the results reported in the associated manuscript.
